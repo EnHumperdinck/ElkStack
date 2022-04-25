@@ -9,7 +9,7 @@ These files have been tested and used to generate a live ELK deployment on Azure
 - The file to download and set up metricbeat and file beat: Images/playbook.png
 
 This document contains the following details:
-- Description of the Topologu
+- Description of the Topology
 - Access Policies
 - ELK Configuration
   - Beats in Use
